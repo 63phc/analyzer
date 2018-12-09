@@ -1,0 +1,5 @@
+ISO_FORMAT = '%Y-%m-%dT%H:%M:%SZ'
+ISO_FORMAT_LITE = '%Y-%m-%d'
+COMMITS = 'commits'
+PULLS = 'pulls'
+ISSUES = 'issues'
